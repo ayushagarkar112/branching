@@ -1,2 +1,2 @@
 this is file 3.txt
-of branch 2
+of branch 3
